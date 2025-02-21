@@ -22,7 +22,7 @@ if selection == 'Heart Disease Risk Prediction App':
     st.subheader("📝 **Provide Your Details**")
 
     # Load dataset to extract unique categorical options
-    url = "https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/raw/main/HeartDataset.csv"
+    url = "https://github.com/583mohammedsohail/heartdisease1/blob/main/HeartRiskApp.py"
     data = pd.read_csv(url)
 
       # Create three columns for better layout and spacing
